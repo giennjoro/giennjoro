@@ -1,4 +1,4 @@
-### Hi there 👋
+### echo " @gienNjoro Says Hi!" 👋
 
 <!--
 **giennjoro/giennjoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
