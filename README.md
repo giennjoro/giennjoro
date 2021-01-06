@@ -1,4 +1,4 @@
-### gienNjoro Says Hi! 👋
+### gienNjoro Says Hi! 👋  
 
 <!--
 **giennjoro/giennjoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 ALIAS: Gien
 - ⚡ Fun fact: I love PHP
 -->
-📫 How to reach me: georgenjoroge977@gmail.com, 0799315478
-😄 ALIAS: Gien
- 🔭 I’m currently working on ... Building secure, fast and reliable APIs with Laravel
+📫 How to reach me :georgenjoroge977@gmail.com  
+<br /> :0799315478
+😄 ALIAS: Gien  
+ 🔭 I’m currently working on ... Building secure, fast and reliable APIs with Laravel  
