@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 📫 How to reach me: georgenjoroge977@gmail.com, 0799315478
 😄 ALIAS: Gien
-⚡ Fun fact: I love PHP
+ 🔭 I’m currently working on ... Building secure, fast and reliable APIs with Laravel
