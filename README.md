@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 📫 How to reach me :georgenjoroge977@gmail.com  
 📫 How to reach me :+254799315478  
-😄 ALIAS: Gien  
- 🔭 I’m currently working on ... Building secure, fast and reliable APIs with Laravel  
+😄 Alias: Gien  
+🌱 Currently Doing: Devops
