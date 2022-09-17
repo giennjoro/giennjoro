@@ -1,5 +1,5 @@
 ### Hello I am George Njoroge. Coding is my life!👋  
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=giennjoro)](https://github.com/anuraghazra/github-readme-stats)
+https://github-readme-streak-stats.herokuapp.com/?user=giennjoro
 <!--
 **giennjoro/giennjoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
