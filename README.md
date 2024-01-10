@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: georgenjoroge977@gmail.com, 0799315478
 - 😄 ALIAS: Gien
-- ⚡ Fun fact: I love PHP
+- ⚡ Fun fact: I love coding the backend with PHP
 -->
 📫 How to reach me :georgenjoroge977@gmail.com  
 📫 How to reach me :+254799315478  
 😄 Alias: Gien  
-🌱 Currently Doing: Devops
+🌱 Currently Doing: Backend Dev, REST APIs
